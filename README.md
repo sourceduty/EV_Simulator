@@ -11,7 +11,7 @@ The simulator's responses are tailored to be both technically accurate and acces
 #
 ### Related Links
 
-[ChatGPt](https://github.com/sourceduty/ChatGPT)
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
