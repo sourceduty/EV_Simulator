@@ -1,4 +1,4 @@
-![EV](https://github.com/user-attachments/assets/fcca961f-b1c9-4c44-9432-1ace6fc92d65)
+![Neon Horse](https://github.com/user-attachments/assets/2551fe16-96e4-4cda-ad03-7f18a97b0d61)
 
 > Simulate various electric vehicle software systems and programs. 
 
@@ -16,6 +16,9 @@ Simulate Tesla EV software systems and programs.
 Simulate Ford EV software systems and programs.
 Simulate Rivian EV software systems and programs.
 ```
+
+#
+![EV](https://github.com/user-attachments/assets/fcca961f-b1c9-4c44-9432-1ace6fc92d65)
 
 #
 ### Related Links
