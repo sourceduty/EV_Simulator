@@ -18,7 +18,22 @@ Simulate Rivian EV software systems and programs.
 ```
 
 #
+### Electric Vehicles
+
 ![EV](https://github.com/user-attachments/assets/fcca961f-b1c9-4c44-9432-1ace6fc92d65)
+
+| Rank | EV Model                 | Manufacturer         | Range (Miles) | Battery Capacity (kWh) | Starting Price (USD) |
+|------|--------------------------|----------------------|---------------|-------------------------|-----------------------|
+| 1    | Tesla Model 3            | Tesla               | 358           | 82                      | $40,240              |
+| 2    | Ford Mustang Mach-E      | Ford                | 312           | 91                      | $42,995              |
+| 3    | Hyundai Ioniq 5          | Hyundai             | 303           | 77.4                    | $41,450              |
+| 4    | Chevrolet Bolt EV        | Chevrolet           | 259           | 65                      | $27,495              |
+| 5    | Rivian R1T               | Rivian              | 314           | 135                     | $73,000              |
+| 6    | Kia EV6                  | Kia                 | 310           | 77.4                    | $48,500              |
+| 7    | Lucid Air                | Lucid Motors        | 516           | 118                     | $77,400              |
+| 8    | Nissan Ariya             | Nissan              | 304           | 87                      | $43,190              |
+| 9    | Volkswagen ID.4          | Volkswagen          | 275           | 82                      | $38,995              |
+| 10   | Polestar 2               | Polestar            | 270           | 78                      | $48,400              |
 
 #
 ### Related Links
