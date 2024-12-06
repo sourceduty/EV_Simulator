@@ -58,6 +58,8 @@ For EV users, these simulations also provide a window into understanding and imp
 [Tesla Design](https://github.com/sourceduty/Tesla_Design)
 <br>
 [EV Toolbox](https://github.com/sourceduty/EV_Toolbox)
+<br>
+[EV Upgrade](https://github.com/sourceduty/EV_Upgrade)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
